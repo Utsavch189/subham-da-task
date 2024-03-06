@@ -25,7 +25,6 @@ def insert_data(thread_id):
         c.close()
         conn.close()
 
-
 def insert_in_threads(thread_count):
     threads = []
 
